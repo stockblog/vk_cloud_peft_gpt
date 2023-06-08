@@ -5,6 +5,8 @@
   
 В качестве базовой модели используется Pythia-12b  
 https://huggingface.co/EleutherAI/pythia-12b  
+
+Тренировка и тестирование проводилось с использованием Tesla A100 40 GB в [VK Cloud](https://mcs.mail.ru/docs/ml/mlplatform)   
   
 Репозиторий состоит из двух Jupyter тетрадок.  
 Первая отвечает за тренировку модели.   
