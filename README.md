@@ -11,4 +11,7 @@ https://huggingface.co/EleutherAI/pythia-12b
 Вторая - сервинг и тест полученной модели.  
   
 Репозиторий подготовлен к выступлению на VK Cloud Conf 2023  
-https://mcs.mail.ru/events/vk-cloud-conf23   
+https://mcs.mail.ru/events/vk-cloud-conf23     
+
+Вопросы можно задать в telegram https://t.me/volinski  
+Также подписывайтесь на наш канал https://t.me/sterodata  
